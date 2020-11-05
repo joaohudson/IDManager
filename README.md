@@ -10,7 +10,7 @@ Next: O(1)
 
 IsValid: O(1)
 
-Rest: O(n)
+Reset: O(n)
 
 Default use:
 
